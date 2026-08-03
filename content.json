@@ -1,0 +1,274 @@
+{
+  "seo": {
+    "title": "ItAssist Broadcast Solutions | End-to-End Broadcasting Services & Equipment",
+    "description": "ItAssist Broadcast Solutions provides comprehensive broadcasting services including streaming, EPG management, SCTE-35/53, playout solutions, and content distribution across 15+ platforms in India. Trusted by 40+ broadcast clients.",
+    "keywords": "ItAssist, broadcast solutions, streaming services, EPG, SCTE-35, SCTE-53, playout, cloud playout, CueStream, broadcasting India, JioTV, TATA Play"
+  },
+  "header": {
+    "logoText": "ItAssist",
+    "tagline": "Broadcast Solutions",
+    "navLinks": [
+      { "label": "Services", "href": "#services" },
+      { "label": "OTT & IPTV", "href": "#ott" },
+      { "label": "Platforms", "href": "#platforms" },
+      { "label": "About", "href": "#about" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "ctaText": "Get Started"
+  },
+  "hero": {
+    "badge": "Trusted by 40+ Broadcasters Across India",
+    "titleLine1": "Powering ",
+    "titleHighlight": "India's Broadcast",
+    "titleLine2": "Infrastructure",
+    "description": "End-to-end broadcasting services — from playout and streaming to EPG management and multi-platform distribution. We keep your channels on air, 24/7.",
+    "btnPrimary": "Explore Services",
+    "btnSecondary": "View Platforms",
+    "liveText": "All Systems Operational — ",
+    "liveBold": "24/7 Live Monitoring"
+  },
+  "stats": {
+    "items": [
+      { "value": "40+", "label": "Active Clients" },
+      { "value": "15+", "label": "Distribution Platforms" },
+      { "value": "24/7", "label": "Monitoring & Support" },
+      { "value": "Pan-India", "label": "Coverage" }
+    ]
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Comprehensive Broadcast ",
+    "titleHighlight": "Solutions",
+    "description": "From signal origination to last-mile delivery, we provide every service your channel needs to stay on air and reach audiences across India.",
+    "items": [
+      {
+        "title": "Live Streaming Services",
+        "description": "End-to-end live streaming with ultra-low latency delivery. We manage encoding, packaging, and CDN distribution so your content reaches viewers flawlessly across devices."
+      },
+      {
+        "title": "EPG Management",
+        "description": "Accurate Electronic Program Guide creation and maintenance across all major platforms. Schedule management, metadata optimization, and real-time EPG updates 24/7."
+      },
+      {
+        "title": "SCTE-35 / SCTE-53 Services",
+        "description": "Professional ad-insertion signalling with SCTE-35 markers and highlight-based SCTE-53 services. Frame-accurate cue generation for seamless ad replacement."
+      },
+      {
+        "title": "Playout Solutions",
+        "description": "Reliable on-premise and cloud-based playout systems with automated scheduling, failover redundancy, and multi-format output for broadcast-grade content delivery."
+      },
+      {
+        "title": "Cloud Playout",
+        "description": "Scalable cloud-native playout infrastructure that eliminates capex. Spin up new channels in minutes with full automation, disaster recovery, and geo-redundant delivery."
+      },
+      {
+        "title": "CueStream SCTE-35 Encoder",
+        "description": "Our proprietary CueStream encoder delivers frame-accurate SCTE-35 cue insertion with intuitive workflow management, supporting live and file-based operations."
+      }
+    ]
+  },
+  "ott": {
+    "badge": "OTT & IPTV",
+    "title": "Complete ",
+    "titleHighlight": "OTT/IPTV",
+    "titleRest": " Distribution",
+    "description": "We deliver your content to India's leading OTT, DTH, and cable platforms — ensuring maximum reach and a seamless viewer experience across every screen.",
+    "dashboardLabel": "Live Dashboard",
+    "dashboardStats": [
+      { "value": "42", "label": "Channels Live" },
+      { "value": "15", "label": "Platforms" },
+      { "value": "99.99%", "label": "Uptime" }
+    ],
+    "dashboardFeeds": [
+      { "channel": "News Channel HD", "tag": "LIVE" },
+      { "channel": "Entertainment Net", "tag": "LIVE" },
+      { "channel": "Faith TV India", "tag": "LIVE" }
+    ],
+    "features": [
+      {
+        "title": "Lightning-Fast Onboarding",
+        "description": "Go live on 15+ platforms within days, not months. We handle all technical integrations."
+      },
+      {
+        "title": "Quality Assurance",
+        "description": "Multi-bitrate encoding and adaptive streaming for buffer-free viewing on any connection."
+      },
+      {
+        "title": "Real-Time Analytics",
+        "description": "Monitor stream health, viewer counts, and platform performance from a single dashboard."
+      }
+    ]
+  },
+  "scte": {
+    "badge": "SCTE-35 / SCTE-53",
+    "title": "Precision ",
+    "titleHighlight": "Ad Signalling",
+    "description": "Industry-leading SCTE-35 and SCTE-53 cue insertion for broadcast-grade ad replacement and content highlighting.",
+    "listItems": [
+      "Frame-accurate SCTE-35 cue insertion",
+      "Highlight-based SCTE-53 services",
+      "Seamless ad replacement across platforms",
+      "Proprietary CueStream encoder technology",
+      "Live and file-based operation support"
+    ]
+  },
+  "platforms": {
+    "badge": "Distribution Network",
+    "title": "Distributed Across ",
+    "titleHighlight": "15+ Platforms",
+    "description": "We deliver your content to India's leading OTT, DTH, and cable platforms — ensuring maximum reach and seamless viewer experience.",
+    "note": "New platforms added regularly — we handle all technical integrations for you",
+    "items": [
+      { "name": "JioTV", "logo": "" },
+      { "name": "TATA Play", "logo": "" },
+      { "name": "UVO TV", "logo": "assets/images/platforms/uvotv.png" },
+      { "name": "GrokTV", "logo": "assets/images/platforms/groktv.png" },
+      { "name": "Free TV", "logo": "" },
+      { "name": "Tango TV", "logo": "assets/images/platforms/tangotv.png" },
+      { "name": "Ek TV", "logo": "assets/images/platforms/ektv.png" },
+      { "name": "Aero Play", "logo": "assets/images/platforms/aeroplay.png" },
+      { "name": "Samrat Satellite TV", "logo": "assets/images/platforms/samrat.png" },
+      { "name": "DTH Live TV", "logo": "assets/images/platforms/dthlivetv.png" },
+      { "name": "ApexPrime TV", "logo": "assets/images/platforms/apexprime.png" },
+      { "name": "Rock TV", "logo": "assets/images/platforms/rocktv.png" }
+    ]
+  },
+  "genres": {
+    "badge": "Our Clients",
+    "title": "Serving Diverse ",
+    "titleHighlight": "Broadcast Genres",
+    "description": "Our 40+ clients span the full spectrum of Indian broadcasting — from 24/7 news networks to devotional channels and entertainment powerhouses.",
+    "items": [
+      {
+        "title": "News",
+        "description": "24/7 news channel playout, streaming & distribution with real-time EPG updates and seamless SCTE ad insertion for maximum revenue.",
+        "class": "news"
+      },
+      {
+        "title": "Entertainment",
+        "description": "Entertainment channel management with scheduled playout, VOD support, multi-platform delivery, and automated content operations.",
+        "class": "entertainment"
+      },
+      {
+        "title": "Religious",
+        "description": "Faith-based channel distribution with reliable uptime, live event streaming, and nationwide reach across all major platforms.",
+        "class": "religious"
+      }
+    ]
+  },
+  "equipment": {
+    "badge": "Equipment",
+    "title": "Broadcast-Grade ",
+    "titleHighlight": "Equipment",
+    "description": "Enterprise-grade broadcasting equipment and our proprietary tools, built for reliability and precision.",
+    "items": [
+      {
+        "title": "CueStream SCTE-35 Encoder",
+        "description": "Our proprietary encoder for frame-accurate ad cue insertion with intuitive workflow management."
+      },
+      {
+        "title": "Playout Servers",
+        "description": "Enterprise-grade playout systems with automated scheduling, failover, and multi-format output."
+      },
+      {
+        "title": "Streaming Encoders",
+        "description": "High-performance encoding for live and VOD content with multi-bitrate adaptive streaming."
+      },
+      {
+        "title": "Cloud Infrastructure",
+        "description": "Scalable cloud-native infrastructure with geo-redundant delivery and disaster recovery."
+      }
+    ]
+  },
+  "whyUs": {
+    "badge": "Why ItAssist",
+    "title": "Your Trusted Broadcast ",
+    "titleHighlight": "Partner",
+    "description": "ItAssist Broadcast Solutions is a full-service broadcasting partner serving 40+ channels across India with technology and expertise that keeps your content flowing to millions.",
+    "items": [
+      {
+        "title": "99.99% Uptime",
+        "description": "Redundant systems with automated failover and real-time monitoring that keeps your channels on air around the clock."
+      },
+      {
+        "title": "Scalable Infrastructure",
+        "description": "Cloud-native architecture scales seamlessly whether you are launching one channel or managing a network of channels."
+      },
+      {
+        "title": "Rapid Deployment",
+        "description": "Go from concept to on-air in record time. Pre-integrated platform connections eliminate months-long setup processes."
+      }
+    ],
+    "trustItems": [
+      "24/7 NOC Support",
+      "SLA-Backed Uptime",
+      "Dedicated Account Manager",
+      "Pan-India Reach"
+    ]
+  },
+  "cta": {
+    "title": "Ready to ",
+    "titleHighlight": "Broadcast?",
+    "description": "Join 40+ broadcasters who trust ItAssist for their playout, streaming, and distribution needs.",
+    "btnPrimary": "Start a Conversation",
+    "btnSecondary": "Call Us Now",
+    "btnSecondaryHref": "tel:+919999999999"
+  },
+  "contact": {
+    "badge": "Contact Us",
+    "title": "Let's Get Your Channel ",
+    "titleHighlight": "On Air",
+    "description": "Whether launching a new channel or optimizing existing operations, our team is ready to help.",
+    "email": "info@itassist.co.in",
+    "phone": "+91 9310007312",
+    "website": "itassist.co.in",
+    "websiteUrl": "https://itassist.co.in",
+    "location": "India",
+    "formLabels": {
+      "name": "Your Name *",
+      "namePlaceholder": "John Doe",
+      "company": "Company / Channel",
+      "companyPlaceholder": "Your Channel Name",
+      "email": "Email Address *",
+      "emailPlaceholder": "you@example.com",
+      "phone": "Phone Number *",
+      "phonePlaceholder": "+91 98765 43210",
+      "message": "Tell us about your requirements *",
+      "messagePlaceholder": "Describe your channel, current setup, and what you need...",
+      "submit": "Send Your Enquiry",
+      "successTitle": "Thank You!",
+      "successMessage": "We'll get back to you within 24 hours."
+    }
+  },
+  "footer": {
+    "description": "End-to-end broadcast services and equipment for India's leading channels. Playout, streaming, EPG, SCTE, and multi-platform distribution.",
+    "servicesLinks": [
+      { "label": "Live Streaming", "href": "#services" },
+      { "label": "EPG Management", "href": "#services" },
+      { "label": "SCTE-35 / SCTE-53", "href": "#scte" },
+      { "label": "Playout Solutions", "href": "#services" },
+      { "label": "Cloud Playout", "href": "#services" },
+      { "label": "CueStream Encoder", "href": "#services" }
+    ],
+    "platformsLinks": [
+      { "label": "JioTV", "href": "#platforms" },
+      { "label": "TATA Play", "href": "#platforms" },
+      { "label": "UVO TV", "href": "#platforms" },
+      { "label": "GrokTV", "href": "#platforms" },
+      { "label": "Free TV", "href": "#platforms" },
+      { "label": "Tango TV", "href": "#platforms" }
+    ],
+    "companyLinks": [
+      { "label": "About Us", "href": "#about" },
+      { "label": "Clients", "href": "#genres" },
+      { "label": "Contact", "href": "#contact" },
+      { "label": "Website", "href": "https://itassist.co.in" }
+    ],
+    "copyright": "\u00a9 2025 ItAssist Broadcast Solutions. All rights reserved.",
+    "bottomRight": "itassist.co.in"
+  },
+  "whatsapp": {
+    "number": "919310007312",
+    "link": "https://wa.me/919310007312"
+  }
+}
